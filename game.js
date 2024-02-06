@@ -99,9 +99,9 @@
 <div class="description-text" style="height: 365px;">
     
     <div id="load_page_apoiador">
-        <div class="title-worm-turkiye"> <img src="https://app.wormateturkiye.com/public/img/TR.png" width="20" align-item="center" alt="">
-            WORM-TURKIYE-BETA
-            <img src="https://app.wormateturkiye.com/public/img/TR.png" width="20" align-item="center" alt="">
+        <div class="title-worm-turkiye"> <img src="" width="20" align-item="center" alt="">
+           NEW EXTENSİONS
+            <img src="" width="20" align-item="center" alt="">
         </div>
 
         <div style="height: 285px; overflow: auto; margin: 6px auto" id="wtr_tabs">
@@ -128,7 +128,7 @@
                 <a href="#tabs5" id="linktab_5" class=""> <span> <img src="https://app.wormateturkiye.com/public/img/FR.png">
                     </span> </a>
 
-                <a href="#tabs6" id="linktab_6" class=""> <span> <img src="https://app.wormateturkiye.com/public/img/mlz.png">
+                <a href="#tabs6" id="linktab_6" class=""> <span> <img src="">
                     </span> </a>
 
                 <a href="#tabs7" id="linktab_7" class=""> <span> <img src="https://app.wormateturkiye.com/public/img/JP.png">
@@ -148,36 +148,36 @@
             <div class="tab-pane active" id="tabs4" style="">
                 <div id="wtr_room_item_1" style="display: grid; grid-template-columns: 1fr 30px; line-height: 28px;">
                     <div class="dropdown-item selecionar-sala-v2" style="cursor: pointer; line-height: 25px" data-con="wss://fra-c.wormate.io:30055/wormy" data-room="1de" data-type="false"> <strong>01 👑
-                            [ 𝐌𝐃𝐑♕ ]★ 𝐌 Ü 𝐃 Ü 𝐑 ★ 👑</strong> </div>
-                    <a href="https://www.tiktok.com/@mudur.um?_t=8h25npkPTGw&amp;_r=1" target="_blank">
-                        <img src="https://app.wormateturkiye.com/public/img/mdrserver.jpeg" style="width: 25px; vertical-align: middle">
+                           MANO 👑</strong> </div>
+                    <a href=" target="_blank">
+                        <img src="" style="width: 25px; vertical-align: middle">
                     </a>
                 </div>
                 <div id="wtr_room_item_2" style="display: grid; grid-template-columns: 1fr 30px; line-height: 28px;">
                     <div class="dropdown-item selecionar-sala-v2" style="cursor: pointer; line-height: 25px" data-con="wss://fra-c.wormate.io:30106/wormy" data-room="2de" data-type="false"> <strong>02 👑
-                            AFYONLU 👑</strong> </div>                   
-                    <a href="https://www.tiktok.com/@oyunmoduafyonlu?lang=tr-TR" target="_blank">
-                        <img src="https://app.wormateturkiye.com/public/img/afs.jpg" style="width: 25px; vertical-align: middle">
+                            SERKAN 👑</strong> </div>                   
+                    <a href="" target="_blank">
+                        <img src=".jpg" style="width: 25px; vertical-align: middle">
                     </a>
                 </div>
                 
                 <div id="wtr_room_item_3" style="display: grid; grid-template-columns: 1fr 30px; line-height: 28px;">
                     <div class="dropdown-item selecionar-sala-v2" style="cursor: pointer; line-height: 25px" data-con="wss://fra-c.wormate.io:31038/wormy" data-room="3de" data-type="false"> <strong>03
-                            👑 BAY FERMAN 👑</strong> </div>
-                    <a href="https://www.tiktok.com/@bayferman61" target="_blank">
-                                <img src="https://app.wormateturkiye.com/public/img/ferman.png" style="width: 25px; vertical-align: middle">
+                            👑 𝐒𝐓𝐑𝐄𝐀𝐌 👑</strong> </div>
+                    <a href="" target="_blank">
+                                <" style="width: 25px; vertical-align: middle">
                             </a>
                 </div>
                 <div id="wtr_room_item_4" style="display: grid; grid-template-columns: 1fr 30px; line-height: 28px;">
                     <div class="dropdown-item selecionar-sala-v2" style="cursor: pointer; line-height: 25px" data-con="wss://fra-c.wormate.io:32650/wormy" data-room="4de" data-type="false"> <strong>04 👑
-                            JUST KING 👑</strong> </div>
+                            𝒟𝒪ℳ𝒜 👑</strong> </div>
                             <a href="https://www.tiktok.com/@justkinq_live?_t=8iSM9R3orFG&amp;_r=1" target="_blank">
                                 <img src="https://app.wormateturkiye.com/public/img/jsw.png" style="width: 25px; vertical-align: middle">
                             </a>
                 </div>
                 <div id="wtr_room_item_5" style="display: grid; grid-template-columns: 1fr 30px; line-height: 28px;">
                     <div class="dropdown-item selecionar-sala-v2" style="cursor: pointer; line-height: 25px" data-con="wss://fra-c.wormate.io:31163/wormy" data-room="5de" data-type="false"> <strong>05
-                                👑NARKOZCU👑 </strong> </div>
+                                👑『K F N』👑 </strong> </div>
                            
                 </div>
                 <div id="wtr_room_item_6" style="display: grid; grid-template-columns: 1fr 30px; line-height: 28px;">
