@@ -23382,10 +23382,3 @@ PIXI.useDeprecated();
         return this.replace(new RegExp(e,"g"), n)
     }
 }(window);
-
-} 
-
-var {<a href="https://wormxt.theoxt.com">WormXÐ¢_Versions FREE
-BY MANO</a>}
-
-}
