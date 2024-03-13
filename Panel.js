@@ -11,7 +11,7 @@ loginForm.addEventListener('submit', (e) => {
   const password = document.getElementById('password').value;
 
   if (username === user.username && password === user.password) {
-    message.textContent = 'Login successful! Redirecting...';
+    message.textContent = 'Kakalandın Emin';
     setTimeout(() => {
       message.textContent = '';
       // Redirect to another page or perform some action
