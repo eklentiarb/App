@@ -142,4 +142,145 @@ function setLanguage(language) {
 </body>
 </html>
  
+German Version : 
  
+<!DOCTYPE html>
+<html lang="de">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+   <link rel="stylesheet" href="style.css">
+   <link rel="shortcut icon" type="x-icon" href="images/Logo.jpg">
+   <title>286</title>
+   <!-- Google Tag (gtag.js) -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=G-N26NW1ZG1M"></script>
+   <script>
+       window.dataLayer = window.dataLayer || [];
+       function gtag(){dataLayer.push(arguments);}
+       gtag('js', new Date());
+
+       gtag('config', 'G-N26NW1ZG1M');
+   </script>
+</head>
+<body>
+   <header>
+       <a href="#" class="logo">286</a>
+       <nav class="navigation">
+           <a href="#services">benim hakkımda</a>
+           <a href="#contact">Temas etmek</a>
+           <div class="language-tab" onclick="toggleLanguages()">
+               Sprache
+               <div class="language-options" id="languageOptions">
+                   <button onclick="setLanguage('en')">Englisch</button>
+                   <button onclick="setLanguage('tr')">Turkish</button>
+               </div>
+       </nav>
+   </header>
+
+   <section class="main">
+       <div>
+           <h2>Hoş geldiniz, 286 yaşındayım<br><span>Geliştirici</span></h2>
+           <h3>Türk öğrenci, geliştirici ve tasarımcıyım</h3>
+       </div>
+   </section>
+
+   <section class="cards" id="services">
+       <h2 class="title">Über Mich</h2>
+       <div class="content">
+           <div class="card">
+               <div class="icon">
+                   <i class="fab fa-python"></i>
+               </div>
+               <div class="info">
+                   <h3>Programlama</h3>
+                   <p>Beni değil</p>
+               </div>
+           </div>
+           <div class="card">
+               <div class="icon">
+                   <i class="fas fa-language"></i>
+               </div>
+               <div class="info">
+                   <h3>Dil</h3>
+                   <p>Türkçe ve İngilizce .</p>
+               </div>
+           </div>
+           <div class="card">
+               <div class="icon">
+                   <i class="fas fa-user"></i>
+               </div>
+               <div class="info">
+                   <h3>Alter</h3>
+                   <p>15 Yaşındayım</p>
+               </div>
+           </div>
+       </div>
+   </section>
+
+   <section class="cards contact" id="contact">
+       <h2 class="title">Lass uns zusammenarbeiten</h2>
+       <div class="content">
+           <div class="card" style="height: 250px;">
+               <div class="icon">
+                   <i class="fas fa-envelope"></i>
+               </div>
+               <div class="info">
+                   <h3>E-Mail</h3>
+                   <p>Kralplaten062@gmail.com</p>
+               </div>
+           </div>
+           <div class="card">
+               <div class="icon">
+                   <i class="fab fa-discord"></i>
+               </div>
+               <div class="info">
+                   <h3>Discord</h3>
+                   <p>Kullamıcı Adı: Pkx.286</p>
+               </div>
+           </div>
+       </div>
+   </section>
+   <script>
+       function setLanguage(language) {
+           if (language === 'de') {
+               window.location.href = 'deindex.html'; // Redirect to the German version
+           } else if (language === 'ar') {
+               window.location.href = 'arindex.html'; // Redirect to the Arabic version
+           } else {
+               // Redirect to the default version or any other language-specific version
+               window.location.href = 'index.html'; // Assuming index.html is your default version
+           }
+       }
+       function toggleLanguages() {
+   var options = document.getElementById("languageOptions");
+   if (options.style.display === "none") {
+       options.style.display = "block";
+   } else {
+       options.style.display = "none";
+   }
+}
+
+function setLanguage(language) {
+   if (language === 'de') {
+       window.location.href = 'deindex.html'; // Redirect to the German version
+   } else if (language === 'ar') {
+       window.location.href = 'arindex.html'; // Redirect to the Arabic version
+   } else {
+       // Redirect to the default version or any other language-specific version
+       window.location.href = 'index.html'; // Assuming index.html is your default version
+   }
+}
+
+   </script>
+   <footer class="footer">
+       <p class="footer-title">Telif akkı © <span>286</span></p>
+   </footer>
+   <!-- Google Tag Manager (noscript) -->
+   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TG3SNWNX"
+   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+   <!-- End Google Tag Manager (noscript) -->
+</body>
+</html>
