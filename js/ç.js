@@ -1,12 +1,3 @@
-// ==UserScript==
-// @name           wormate.io zoom hack - zoom on mousewheel
-// @version        0.0.1
-// @namespace      example@dindog.com
-// @include        https://wormate.io*
-// @run-at         document-start
-// ==/UserScript==
-
-
 window.addEventListener('beforescriptexecute', function(e) {
 
     ///for external script:
